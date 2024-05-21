@@ -94,7 +94,7 @@ FOCA (Fingerprinting Organizations with Collected Archives) è uno strumento di 
 
 
 ### Data Leak
-- **FACEBOOK**: [facebook leaked]([https://haveibeenpwned.com/](https://github.com/davidfegyver/facebook-533m )
+- **FACEBOOK**: [facebook leaked](https://github.com/davidfegyver/facebook-533m)
 - **Have I Been Pwned**: [haveibeenpwned.com](https://haveibeenpwned.com/)
   - Un servizio che permette di controllare se i tuoi account sono stati compromessi in una violazione dei dati.
 - **Dehashed**: [dehashed.com](https://www.dehashed.com/)
