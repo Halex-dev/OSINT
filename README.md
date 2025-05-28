@@ -5,6 +5,7 @@ L'OSINT (Open Source Intelligence) è la pratica di raccogliere informazioni da 
 
 ## Sommario
 - [Software Raccomandati](#software-raccomandati)
+  - [Ghunt](#ghunt)
   - [Maltego](#maltego)
   - [The Harvester](#the-harvester)
   - [SpiderFoot](#spiderfoot)
@@ -20,6 +21,11 @@ L'OSINT (Open Source Intelligence) è la pratica di raccogliere informazioni da 
 
 ## Software Raccomandati
 
+### Ghunt
+GHunt è uno strumento open source utilizzato per raccogliere informazioni su un account Google (OSINT – Open Source Intelligence). Può ottenere dati da un indirizzo Gmail pubblico.
+
+- **Sito Web**: [GHunt](https://github.com/mxrch/GHunt) 
+ 
 ### Maltego
 Maltego è uno strumento potente per la raccolta di informazioni e l'analisi di relazioni e connessioni tra dati. Offre un'interfaccia grafica per visualizzare le connessioni tra le entità.
 
