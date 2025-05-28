@@ -15,6 +15,7 @@ L'OSINT (Open Source Intelligence) è la pratica di raccogliere informazioni da 
   - [FOCA](#foca)
 - [Data Leak](#data-leak-e-link-utili)
 - [Risorse Aggiuntive](#risorse-aggiuntive)
+- [IOS](#IOS)
 - [Conclusione](#conclusione)
 
 ## Software Raccomandati
@@ -99,6 +100,12 @@ FOCA (Fingerprinting Organizations with Collected Archives) è uno strumento di 
   - Un servizio che permette di controllare se i tuoi account sono stati compromessi in una violazione dei dati.
 - **Dehashed**: [dehashed.com](https://www.dehashed.com/)
   - Un motore di ricerca per data breach, che consente di trovare informazioni su email, username e altre informazioni compromesse.
+
+
+### IOS
+
+- **libreria per interagire con IOS**: [libmobiledevice](https://github.com/libimobiledevice/libimobiledevice)
+- **sysdiagnose**: [sysdiagnose](https://github.com/EC-DIGIT-CSIRC/sysdiagnose) 
 
 ## Risorse Aggiuntive (GITHUB)
 - https://github.com/loseys/Oblivion
